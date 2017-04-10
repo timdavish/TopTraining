@@ -17,6 +17,8 @@
 		"angular": false,
 		"google": false,
 		"inject": false,
-		"compileRouteTemplateWithController": false
+		"specHelper": false,
+		"compileRouteTemplateWithController": false,
+		"verifyNoOutstandingHttpRequests": false
 	}
 }
